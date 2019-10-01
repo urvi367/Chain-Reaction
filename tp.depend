@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516125665 source:c:\users\urvi rawat\desktop\urvi\cpp\tp\main.cpp
+	<iostream>
+
+1557138522 source:c:\users\urvi rawat\desktop\urvi\cpp\chain reaction\main.cpp
+	<iostream>
+	<windows.h>
+
