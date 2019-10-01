@@ -1,4 +1,4 @@
-#Chain Reaction
+# Chain Reaction
 
 A strategy game for 2 players implemented using C++ (without GUI).
 
